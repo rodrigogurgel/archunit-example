@@ -1,4 +1,4 @@
-package br.com.rodrigogurgel.archunit_example
+package br.com.rodrigogurgel.archunitexample
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class ArchunitExampleApplication
 
 fun main(args: Array<String>) {
-	runApplication<ArchunitExampleApplication>(*args)
+    runApplication<ArchunitExampleApplication>(*args)
 }
